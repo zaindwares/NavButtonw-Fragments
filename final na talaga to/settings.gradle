@@ -1,0 +1,2 @@
+rootProject.name = "BottomNavKemms"
+include ':app'
